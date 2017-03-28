@@ -1,6 +1,11 @@
 # arduinoday2017
 Codes for Arduino Day 2017: workshop about NodeMCU 
 
+PushBullet
+https://www.pushbullet.com/
+
+ThingSpeak
+https://thingspeak.com/
 
 Tutorial de como instalar o pacote do NodeMCU para programar na IDE Arduino
 
